@@ -4,7 +4,7 @@ Renamed from kink-packet on 9 October 2026. Working notes. Not papers.
 
 The microscopic progress that survived version 4 is the kink packet: one zero mode, an exponential overlap split, and a coherent transfer with a conserved middle weight. A new name does not supply a galactic field, a physical clock, or a universal acceleration.
 
-A shared audit scale is not a shared physical mechanism. Notes 3 to 6 judge the packet and the galactic ruler by one standard. They do not join the objects.
+A shared audit scale is not a shared physical mechanism. Notes 3 to 6 judge the packet and the galactic ruler by one standard. Notes 8 to 10 attempt the full bridge and do not close it.
 
 ## Layout
 
@@ -16,7 +16,10 @@ A shared audit scale is not a shared physical mechanism. Notes 3 to 6 judge the 
 | `notes/04_lattice_physical_ledger.md` | Note 4. Two-column register. Three imports. Split nouns. |
 | `notes/05_interface_spec.md` | Note 5. Missing sockets. No bridge as a spec. |
 | `notes/06_grade2_defense.md` | Note 6. Exponential forced, window fit calibrated. |
-| `notes/07_source_framing.md` | Note 7. Source texts this progression came from. |
+| `notes/07_source_framing.md` | Note 7. Source texts for the audit framing. |
+| `notes/08_bridge_attempt.md` | Note 8. Four revival paths. Bare packet still field-blind. |
+| `notes/09_tilt_reduction.md` | Note 9. Imported tilt gives standard mu. Scale runs. |
+| `notes/10_dimensional_stop.md` | Note 10. No SI acceleration from a scale-free packet. |
 
 ## Earned
 
@@ -25,15 +28,16 @@ A shared audit scale is not a shared physical mechanism. Notes 3 to 6 judge the 
 - The decay length tracks 1/(2v).
 - A left-localized state transfers to the right wall on T = pi / Delta E.
 - The middle weight stays fixed. The norm stays 1.
+- After an imported Newtonian tilt, the wall imbalance is x/sqrt(1+x^2). This is not a derived a0.
 
 ## Not earned
 
-- No g in the split, so the free-energy response is zero.
+- No g in the isolated split, so the free-energy response is zero.
 - No physical unit map. The clock is in lattice units.
-- The acceleration combination d (Delta E)^2 changes with v and d.
+- g_c = Delta E / (2 d) changes with v and d. At v = 1 it is 164 times larger at separation 1 than at separation 3.
 - No Callias count on the tested hedgehog boxes.
-- No derivation of 1.41e-10 or 8.25e-11 m/s^2.
-- No derivation of the simple interpolator from the kink Hamiltonian.
+- No derivation of 1.2e-10 m/s^2, nor of 1.41e-10 or 8.25e-11.
+- No derivation of the simple interpolator. The standard form appears only after the tilt is written in.
 - A black-hole surface gravity is set by the hole's mass. It is not this split.
 
-Source notes: kawastony/grok-notes-version-4, notes 35 through 79. Parent packet: notes 45, 54, 57, 58.
+Source notes: kawastony/grok-notes-version-4, notes 35 through 79. Parent packet: notes 45, 54, 57, 58, 70, 73, 76, 77.
