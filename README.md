@@ -4,7 +4,7 @@ Renamed from kink-packet on 9 October 2026. Working notes. Not papers.
 
 The microscopic progress that survived version 4 is the kink packet: one zero mode, an exponential overlap split, and a coherent transfer with a conserved middle weight.
 
-A shared audit scale is not a shared physical mechanism. Notes 22 to 26 are the cone geodesics and the Riemann tensor. Note 27 is the Gaussian curvature. Off the tip it is zero.
+A shared audit scale is not a shared physical mechanism. Notes 22 to 27 are the cone geometry. Note 28 is Liouville's equation. The cone is the harmonic case.
 
 ## Layout
 
@@ -37,18 +37,19 @@ A shared audit scale is not a shared physical mechanism. Notes 22 to 26 are the 
 | `notes/25_geodesic_deviation.md` | Note 25. Deviation equation. Curvature only at the tip. |
 | `notes/26_riemann_cone.md` | Note 26. Riemann component computed. Zero off the tip. |
 | `notes/27_gaussian_curvature.md` | Note 27. K = 0 on the cone. Nonzero only if the side curves. |
+| `notes/28_liouville.md` | Note 28. Liouville equation. Cone factor is harmonic. |
 
 ## Earned
 
 - Zero mode, tail-product split, transfer clock, fixed middle.
 - Parity rule. Kappa = -1 for an imported odd scalar.
-- Cone geodesics derived. Regular Riemann tensor zero for r > 0. K = 0 off the tip. Deficit is holonomy 2 pi (1 - alpha).
+- Cone geometry: geodesics, Riemann zero off the tip, K = 0, Liouville reduces to Laplace.
 
 ## Not earned
 
 - No g in the isolated packet.
-- No identification of the cone generator with the kink coordinate.
-- No fall from the geodesic, deviation, or curvature.
+- No identification of the conformal factor with the kink mass.
+- No fall from the geodesic, deviation, or Liouville equation.
 - No universal scale. No derived ruler.
 
 Source: kawastony/grok-notes-version-4, notes 31, 34, 45, 54, 57, 58, 60, 61, 62, 64, 65, 70, 73, 74, 76, 77.
