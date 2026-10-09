@@ -4,7 +4,7 @@ Renamed from kink-packet on 9 October 2026. Working notes. Not papers.
 
 The microscopic progress that survived version 4 is the kink packet: one zero mode, an exponential overlap split, and a coherent transfer with a conserved middle weight. A new name does not supply a galactic field, a physical clock, or a universal acceleration.
 
-A shared audit scale is not a shared physical mechanism. Notes 3 to 6 judge the packet and the galactic ruler by one standard. Notes 8 to 10 attempt the full bridge and do not close it.
+A shared audit scale is not a shared physical mechanism. Notes 3 to 6 judge the packet and the galactic ruler by one standard. Notes 8 to 10 attempt the full bridge. Notes 11 to 13 close Step 1 for the present Hamiltonian.
 
 ## Layout
 
@@ -20,6 +20,9 @@ A shared audit scale is not a shared physical mechanism. Notes 3 to 6 judge the 
 | `notes/08_bridge_attempt.md` | Note 8. Four revival paths. Bare packet still field-blind. |
 | `notes/09_tilt_reduction.md` | Note 9. Imported tilt gives standard mu. Scale runs. |
 | `notes/10_dimensional_stop.md` | Note 10. No SI acceleration from a scale-free packet. |
+| `notes/11_selection_rule.md` | Note 11. Even scalar gives I. Odd scalar gives sigma_z. |
+| `notes/12_kappa_large_d.md` | Note 12. Imported V = g x has kappa = -1 at large d. |
+| `notes/13_step1_nogo.md` | Note 13. Present H acquires a detuning only by import. |
 
 ## Earned
 
@@ -28,7 +31,8 @@ A shared audit scale is not a shared physical mechanism. Notes 3 to 6 judge the 
 - The decay length tracks 1/(2v).
 - A left-localized state transfers to the right wall on T = pi / Delta E.
 - The middle weight stays fixed. The norm stays 1.
-- After an imported Newtonian tilt, the wall imbalance is x/sqrt(1+x^2). This is not a derived a0.
+- Selection rule: an odd scalar detunes the walls; an even scalar does not.
+- If V = g x is imported, kappa = -1 + O(exp(-2 v d)).
 
 ## Not earned
 
@@ -38,6 +42,6 @@ A shared audit scale is not a shared physical mechanism. Notes 3 to 6 judge the 
 - No Callias count on the tested hedgehog boxes.
 - No derivation of 1.2e-10 m/s^2, nor of 1.41e-10 or 8.25e-11.
 - No derivation of the simple interpolator. The standard form appears only after the tilt is written in.
-- A black-hole surface gravity is set by the hole's mass. It is not this split.
+- Step 1 does not reopen inside the present field content. Steps 2 and 3 stay closed.
 
 Source notes: kawastony/grok-notes-version-4, notes 35 through 79. Parent packet: notes 45, 54, 57, 58, 70, 73, 76, 77.
