@@ -4,7 +4,7 @@ Renamed from kink-packet on 9 October 2026. Working notes. Not papers.
 
 The microscopic progress that survived version 4 is the kink packet: one zero mode, an exponential overlap split, and a coherent transfer with a conserved middle weight.
 
-A shared audit scale is not a shared physical mechanism. Notes 11 to 13 close Step 1 for the isolated Hamiltonian. Notes 14 to 17 do not fix an odd scalar. Notes 18 and 19 open the ledger into the cone flux. The seep does not become dv.
+A shared audit scale is not a shared physical mechanism. Notes 11 to 13 close Step 1. Notes 18 and 19 open the ledger into the cone flux. Notes 20 and 21 track a fixed-radius elongation. The fall stays an analogy.
 
 ## Layout
 
@@ -29,20 +29,21 @@ A shared audit scale is not a shared physical mechanism. Notes 11 to 13 close St
 | `notes/17_cross_bridge_balance.md` | Note 17. Active transit, two parked pauses. No detuning. |
 | `notes/18_seep_into_cone.md` | Note 18. Cone work term. Symmetric flux jump. |
 | `notes/19_de_dm_response.md` | Note 19. dE from dv. Cone mu is not v. |
+| `notes/20_elongation_midpoint.md` | Note 20. Fixed R, slant tracked by the midpoint tool. |
+| `notes/21_integral_fall.md` | Note 21. Active-interval fall. Integral rule not forced. |
 
 ## Earned
 
 - Zero mode, tail-product split, transfer clock, fixed middle.
-- Parity rule for added scalars.
-- Kappa = -1 for an imported odd scalar, large d.
-- Flux jump of the cone scalar across a source.
-- d Delta E / Delta E = (ln 4 + psi(v+1/2) - psi(v) - 2 d) dv.
+- Parity rule. Kappa = -1 for an imported odd scalar.
+- Flux jump across a source. dE response to dv.
+- At fixed base radius, slant lengthens and the opening shrinks. Midpoint tool recovers the slant slope.
 
 ## Not earned
 
 - No g in the isolated packet.
-- No self-tilt from even backreaction or an even seep.
-- No identification of the cone mass with the kink mass.
-- No universal g_c. No unit map. No derived ruler.
+- No identification of the cone generator with the kink coordinate.
+- No D proportional to enclosed mass from the cone metric.
+- No universal funnel scale. No derived ruler.
 
-Source: kawastony/grok-notes-version-4, notes 45, 54, 57, 58, 60, 61, 62, 64, 70, 73, 76, 77.
+Source: kawastony/grok-notes-version-4, notes 31, 34, 45, 54, 57, 58, 60, 61, 62, 64, 65, 70, 73, 74, 76, 77.
