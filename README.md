@@ -4,7 +4,7 @@ Renamed from kink-packet on 9 October 2026. Working notes. Not papers.
 
 The microscopic progress that survived version 4 is the kink packet: one zero mode, an exponential overlap split, and a coherent transfer with a conserved middle weight.
 
-A shared audit scale is not a shared physical mechanism. Notes 22 to 28 are the cone geometry. Notes 29 and 30 separate an elongating funnel from a geodesic. Pause freezes the metric. Active changes it.
+A shared audit scale is not a shared physical mechanism. The packet maps onto this repo. The cone dynamics do not inherit it. Note 31 is the check.
 
 ## Layout
 
@@ -40,19 +40,18 @@ A shared audit scale is not a shared physical mechanism. Notes 22 to 28 are the 
 | `notes/28_liouville.md` | Note 28. Liouville equation. Cone factor is harmonic. |
 | `notes/29_elongation_is_not_a_geodesic.md` | Note 29. Funnel is the metric. Geodesics change with it. |
 | `notes/30_changing_metric_time.md` | Note 30. Circumference and traveling clocks change. Packet does not detune. |
+| `notes/31_micro_map_check.md` | Note 31. Packet maps. Cone dynamics do not. |
 
 ## Earned
 
-- Zero mode, tail-product split, transfer clock, fixed middle.
+- Zero mode, tail-product split, transfer clock, fixed middle. Transferred from version 4, not rerun.
 - Parity rule. Kappa = -1 for an imported odd scalar.
-- Cone geometry: geodesics, Riemann zero off the tip, K = 0, Liouville reduces to Laplace.
-- Pause freezes alpha. Active makes the geodesic equation time-dependent.
+- Cone geometry is a separate layer.
 
 ## Not earned
 
+- No map from the kink Hamiltonian onto the cone geodesics.
 - No g in the isolated packet.
-- No identification of the funnel with a geodesic, or of alpha with v.
-- No fall from the geodesic equation.
 - No universal scale. No derived ruler.
 
-Source: kawastony/grok-notes-version-4, notes 31, 34, 45, 54, 57, 58, 60, 61, 62, 64, 65, 70, 73, 74, 76, 77.
+Source: kawastony/grok-notes-version-4, notes 03, 45, 54, 57, 58.
