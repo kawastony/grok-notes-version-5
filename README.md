@@ -4,7 +4,7 @@ Renamed from kink-packet on 9 October 2026. Working notes. Not papers.
 
 The microscopic progress that survived version 4 is the kink packet: one zero mode, an exponential overlap split, and a coherent transfer with a conserved middle weight.
 
-A shared audit scale is not a shared physical mechanism. Notes 11 to 13 close Step 1. Notes 22 and 23 are the cone geodesic equations. Note 24 derives them. A geodesic is not a fall.
+A shared audit scale is not a shared physical mechanism. Notes 22 to 24 are the cone geodesics. Note 25 is the deviation equation. Off the tip the tidal field is zero.
 
 ## Layout
 
@@ -34,18 +34,19 @@ A shared audit scale is not a shared physical mechanism. Notes 11 to 13 close St
 | `notes/22_cone_geodesics.md` | Note 22. Cone geodesic equations. Straight on the unrolling. |
 | `notes/23_geodesic_not_the_bridge.md` | Note 23. Geodesics do not detune the packet. |
 | `notes/24_geodesic_derivation.md` | Note 24. Lagrangian and Christoffel derivation. |
+| `notes/25_geodesic_deviation.md` | Note 25. Deviation equation. Curvature only at the tip. |
 
 ## Earned
 
 - Zero mode, tail-product split, transfer clock, fixed middle.
 - Parity rule. Kappa = -1 for an imported odd scalar.
-- Cone geodesics derived: l = alpha^2 r^2 d phi/dt, r double dot = alpha^2 r (d phi/dt)^2.
+- Cone geodesics derived. Off the tip, K = 0 and the deviation equation is flat. Deficit is holonomy 2 pi (1 - alpha).
 
 ## Not earned
 
 - No g in the isolated packet.
 - No identification of the cone generator with the kink coordinate.
-- No fall from the geodesic equation.
+- No fall from the geodesic or deviation equation.
 - No universal scale. No derived ruler.
 
 Source: kawastony/grok-notes-version-4, notes 31, 34, 45, 54, 57, 58, 60, 61, 62, 64, 65, 70, 73, 74, 76, 77.
