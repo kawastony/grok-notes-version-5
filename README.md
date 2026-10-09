@@ -1,8 +1,15 @@
-# Kink packet
+# grok-notes-version-5
 
-Microscopic results transferred from grok-notes-version-4 on 9 October 2026. This repository is the packet only.
+Renamed from kink-packet on 9 October 2026. Working notes. Not papers.
 
-A new name does not supply a galactic field, a physical clock, or a universal acceleration. Those failures are recorded so they are not repeated as successes.
+The microscopic progress that survived version 4 is the kink packet: one zero mode, an exponential overlap split, and a coherent transfer with a conserved middle weight. A new name does not supply a galactic field, a physical clock, or a universal acceleration. Those failures stay recorded so they are not repeated as successes.
+
+## Layout
+
+| Path | Content |
+|------|---------|
+| `notes/00_transfer.md` | What moved, and why the galactic reading failed. |
+| `notes/02_two_level_translation.md` | Note 2. The same packet as a two-level microscopic theory. |
 
 ## Earned
 
@@ -22,4 +29,4 @@ A new name does not supply a galactic field, a physical clock, or a universal ac
 - No derivation of the simple interpolator from the kink Hamiltonian.
 - A black-hole surface gravity is set by the hole's mass. It is not this split.
 
-Source notes: kawastony/grok-notes-version-4, notes 35 through 79.
+Source notes: kawastony/grok-notes-version-4, notes 35 through 79. Parent packet: notes 45, 57, 58.
