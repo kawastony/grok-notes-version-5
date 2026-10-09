@@ -4,7 +4,7 @@ Renamed from kink-packet on 9 October 2026. Working notes. Not papers.
 
 The microscopic progress that survived version 4 is the kink packet: one zero mode, an exponential overlap split, and a coherent transfer with a conserved middle weight.
 
-A shared audit scale is not a shared physical mechanism. Notes 11 to 13 close Step 1 for the isolated Hamiltonian. Notes 14 to 16 test the enlarged fork. Even backreaction and the cone do not fix an odd scalar.
+A shared audit scale is not a shared physical mechanism. Notes 11 to 13 close Step 1 for the isolated Hamiltonian. Notes 14 to 16 test the enlarged fork. Note 17 tests a cross-bridge energy balance. None of them fixes an odd scalar.
 
 ## Layout
 
@@ -26,6 +26,7 @@ A shared audit scale is not a shared physical mechanism. Notes 11 to 13 close St
 | `notes/14_enlarged_fork.md` | Note 14. Reopen condition. |
 | `notes/15_even_backreaction.md` | Note 15. Symmetric packet cannot tilt itself. |
 | `notes/16_cone_does_not_supply.md` | Note 16. Cone is a different sector. |
+| `notes/17_cross_bridge_balance.md` | Note 17. Active transit, two parked pauses. No detuning. |
 
 ## Earned
 
@@ -38,6 +39,7 @@ A shared audit scale is not a shared physical mechanism. Notes 11 to 13 close St
 - No g in the isolated packet.
 - No self-tilt from even backreaction.
 - No odd scalar from the cone reduction.
+- No detuning from a balance across one active and two pauses.
 - No universal g_c. No unit map. No derived ruler.
 
 Source: kawastony/grok-notes-version-4, notes 45, 54, 57, 58, 60, 62, 70, 73, 76, 77.
