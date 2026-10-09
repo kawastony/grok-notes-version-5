@@ -4,7 +4,7 @@ Renamed from kink-packet on 9 October 2026. Working notes. Not papers.
 
 The microscopic progress that survived version 4 is the kink packet: one zero mode, an exponential overlap split, and a coherent transfer with a conserved middle weight.
 
-A shared audit scale is not a shared physical mechanism. Notes 11 to 13 close Step 1. Notes 20 and 21 track elongation. Notes 22 and 23 are the cone geodesic equations. A geodesic is not a fall.
+A shared audit scale is not a shared physical mechanism. Notes 11 to 13 close Step 1. Notes 22 and 23 are the cone geodesic equations. Note 24 derives them. A geodesic is not a fall.
 
 ## Layout
 
@@ -33,12 +33,13 @@ A shared audit scale is not a shared physical mechanism. Notes 11 to 13 close St
 | `notes/21_integral_fall.md` | Note 21. Active-interval fall. Integral rule not forced. |
 | `notes/22_cone_geodesics.md` | Note 22. Cone geodesic equations. Straight on the unrolling. |
 | `notes/23_geodesic_not_the_bridge.md` | Note 23. Geodesics do not detune the packet. |
+| `notes/24_geodesic_derivation.md` | Note 24. Lagrangian and Christoffel derivation. |
 
 ## Earned
 
 - Zero mode, tail-product split, transfer clock, fixed middle.
 - Parity rule. Kappa = -1 for an imported odd scalar.
-- Cone geodesics: l = alpha^2 r^2 d phi/dt, r double dot = alpha^2 r (d phi/dt)^2, straight on the unrolled sector.
+- Cone geodesics derived: l = alpha^2 r^2 d phi/dt, r double dot = alpha^2 r (d phi/dt)^2.
 
 ## Not earned
 
