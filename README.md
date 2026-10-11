@@ -4,7 +4,7 @@ Renamed from kink-packet on 9 October 2026. Working notes. Not papers.
 
 The microscopic progress that survived version 4 is the kink packet: one zero mode, an exponential overlap split, and a coherent transfer with a conserved middle weight.
 
-A shared audit scale is not a shared physical mechanism. The packet maps onto this repo. The cone dynamics do not inherit it. Note 31 is the check.
+A shared audit scale is not a shared physical mechanism. The packet maps onto this repo. The cone dynamics do not inherit it. Notes 33-36 freeze the taxonomy from the midpoint and integral tools.
 
 ## Layout
 
@@ -41,17 +41,24 @@ A shared audit scale is not a shared physical mechanism. The packet maps onto th
 | `notes/29_elongation_is_not_a_geodesic.md` | Note 29. Funnel is the metric. Geodesics change with it. |
 | `notes/30_changing_metric_time.md` | Note 30. Circumference and traveling clocks change. Packet does not detune. |
 | `notes/31_micro_map_check.md` | Note 31. Packet maps. Cone dynamics do not. |
+| `notes/32_midpoint_repo_map.md` | Note 32. Midpoint repo does not map onto the packet. |
+| `notes/33_taxonomy_freeze.md` | Note 33. Four boxes: topology, lapse, closure, anchor. |
+| `notes/34_observable_parameter_table.md` | Note 34. Observable-to-parameter map. |
+| `notes/35_notation_and_dimensional_audit.md` | Note 35. λ/μ/ν. Dimensional no-go. Cone repulsive. |
+| `notes/36_lattice_accumulation_plan.md` | Note 36. Scoped lattice delay/defocus plan. Not run. |
 
 ## Earned
 
 - Zero mode, tail-product split, transfer clock, fixed middle. Transferred from version 4, not rerun.
 - Parity rule. Kappa = -1 for an imported odd scalar.
-- Cone geometry is a separate layer.
+- Cone geometry is a separate layer. Local optics deficit-blind. Topology curvature-blind. Cone repulsive for J ≠ 0.
+- Taxonomy frozen. Observable table written. Dimensional count one short.
 
 ## Not earned
 
 - No map from the kink Hamiltonian onto the cone geodesics.
 - No g in the isolated packet.
 - No universal scale. No derived ruler.
+- Lattice accumulation not computed.
 
-Source: kawastony/grok-notes-version-4, notes 03, 45, 54, 57, 58.
+Source: kawastony/grok-notes-version-4, notes 03, 45, 54, 57, 58. Midpoint and integral repo analyses of 2026-10-11.
