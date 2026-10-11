@@ -4,7 +4,7 @@ Renamed from kink-packet on 9 October 2026. Working notes. Not papers.
 
 The microscopic progress that survived version 4 is the kink packet: one zero mode, an exponential overlap split, and a coherent transfer with a conserved middle weight.
 
-A shared audit scale is not a shared physical mechanism. The packet maps onto this repo. The cone dynamics do not inherit it. Notes 33-36 freeze the taxonomy. Note 37 runs the lattice. Note 38 separates the optical result from the packet bridge.
+A shared audit scale is not a shared physical mechanism. The packet maps onto this repo. The cone dynamics do not inherit it. Notes 37-39 are the lattice delay and defocus. Note 40 separates hard claims from soft ones.
 
 ## Layout
 
@@ -48,6 +48,8 @@ A shared audit scale is not a shared physical mechanism. The packet maps onto th
 | `notes/36_lattice_accumulation_plan.md` | Note 36. Scoped lattice delay/defocus plan. |
 | `notes/37_delay_defocus_split.md` | Note 37. Delay branch-blind. Defocus branch-dependent. |
 | `notes/38_what_remains_of_the_stuck_problem.md` | Note 38. Optical lattice advanced. Packet bridge not. |
+| `notes/39_delay_is_exact_differential.md` | Note 39. Delay is ξ ln(s_f/s_i). Endpoint only. |
+| `notes/40_hard_and_soft_claims.md` | Note 40. Hard claims separated from soft ones. |
 
 ## Earned
 
@@ -55,12 +57,13 @@ A shared audit scale is not a shared physical mechanism. The packet maps onto th
 - Parity rule. Kappa = -1 for an imported odd scalar.
 - Cone geometry is a separate layer. Local optics deficit-blind. Topology curvature-blind. Cone repulsive for J ≠ 0.
 - Taxonomy frozen. Observable table written. Dimensional count one short.
-- Lattice: Δt_tot = N ξ ln ρ, independent of ν. Defocus ~ ρ^(ν N), branch-dependent.
+- Lattice delay is an exact differential when ξ is constant. Identically ν-blind across three non-identical families. Defocus is the dual, ν-sensitive.
 
 ## Not earned
 
 - No map from the kink Hamiltonian onto the cone geodesics or the lattice.
 - No g in the isolated packet.
 - No universal scale. No derived ruler. Anchor remains hosted.
+- No GR limit. No optical-gravity claim.
 
 Source: kawastony/grok-notes-version-4, notes 03, 45, 54, 57, 58. Midpoint and integral repo analyses of 2026-10-11.
